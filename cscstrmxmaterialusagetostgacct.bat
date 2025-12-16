@@ -1,0 +1,1 @@
+robocopy "E:\RMXMatl\CST" "\\Vmsscacsprdcus1\sfg$\RMX Material Usage" /mov /R:1 /W:5 /MT:32 /log:"c:\scripts\RMXMatlUsage\cstrmxmaterialusagelogtostorageacct.txt"

@@ -1,0 +1,1 @@
+robocopy "E:\RMXMatl\Kilgore" "\\Vmsscacsprdcus1\sfg$\RMX Material Usage\Kilgore" /S /E /mov /R:1 /W:5 /MT:32 /log:"c:\scripts\RMXMatlUsage\kcrmxmaterialusagelogtostorageacct.txt"

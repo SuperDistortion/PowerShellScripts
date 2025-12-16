@@ -1,0 +1,1 @@
+robocopy "E:\RMXMatl\Rustin\Troy Vines" "\\stgsumwestafsprdcus01.file.core.windows.net\rhshared\Rustin\RMX Material Usage\Troy Vines" /mov /R:1 /W:5 /MT:32 /log:"c:\scripts\RMXMatlUsage\rhrmxmaterialusagelogtostorageacct.txt"
